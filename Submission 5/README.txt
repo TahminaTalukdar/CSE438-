@@ -1,11 +1,11 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/8147441555tchxcvbnnydd
+https://www.overleaf.com/5625312445jjmsnnwvdphs
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=f1VPqQ7EVmI&list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U&index=2
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICCITconf2023
 
 Paper title:
 Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
@@ -13,16 +13,16 @@ Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1x_cpPE6zcQiH1pweXWo8yv6VtkQebi43iH58OH7WhNw/edit#slide=id.p
 Paper submission date (to workshop/conference):
-25 October 1999
+5 september 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+318
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+26th International Conference on Computer and Information Technology
 
 Conference URL:
-http://confsite/...
+https://iccit.org.bd/2023/
 
 Group Number:
 09
