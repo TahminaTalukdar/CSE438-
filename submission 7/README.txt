@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/4543779736gnhsdkzyxttg
+https://www.overleaf.com/5611122852ntvqwtsbsdcc
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=zwfTx_Cv65w&list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U&index=1
@@ -11,7 +11,7 @@ Paper title:
 Enhancing Water Safety through Advanced Detection Techniques
 
 Paper presentation (anyone can view without login):
-https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission7/bonus_task_CSE_438.pdf
+https://docs.google.com/presentation/d/18wvX560Y3P7ulXJHB4Uh4j5KxAbATrNi/edit?usp=sharing&ouid=100322516259440187815&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 25 October 1999
